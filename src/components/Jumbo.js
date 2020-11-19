@@ -1,20 +1,18 @@
-import {Jumbotron, Button } from 'react-bootstrap';
+import {Jumbotron, Container } from 'react-bootstrap';
 
-function Jumbo () {
-    return (
-        <div className="App">
-            <Jumbotron>
-                            <h1>Ernest Wesson's Portfolio</h1> 
-                            
-                <p>
-                   Ambitious FullStack Web Developer
-                </p>
-                <p>
-                    {/* <Button variant="primary">Learn More</Button> */}
-                </p>
-            </Jumbotron>
-        </div>
-    )
+function Jumbo() {
+  return (
+    <div className="App">
+      <Jumbotron fluid>
+        <Container>
+          <h1>Fluid jumbotron</h1>
+          <p>
+            Ambitious Fullstack Web Developer, ready to provide company's and business a reliable development solution.
+          </p>
+        </Container>
+      </Jumbotron>
+    </div>
+  );
 }
 
 export default Jumbo;
