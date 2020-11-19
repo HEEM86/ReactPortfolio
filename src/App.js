@@ -2,18 +2,23 @@ import React from 'react';
 // import App from './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Navbar,Nav,Form,FormControl,Button } from 'react-bootstrap';
-import Jumbo from './components/Jumbo/Jumbo';
-import Footer from './components/Footer/Footer';
-import NavBar from './components/NavBar/Navbar';
+import Jumbo from './components/Jumbo';
+import Footer from './components/Footer';
+import Navagation from './components/Navagation/Navagation';
 // import "./components/NavStyles.css";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
   function App () {
     return (
+
+      <Router>
       <div>
-        <NavBar/>
-        <Jumbo/>
-        <Footer/>
+        <Navbar />
+        {/* <Route exact path="/contact" component={Contact} /> */}
+       
+     
       </div>
+    </Router>
     )
   }
 

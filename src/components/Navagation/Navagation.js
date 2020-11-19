@@ -1,25 +1,25 @@
 import React from 'react'; 
 // import { Link } from "react-router-dom";
-import "./components/styles.css";
-import { Navbar,Nav } from 'react-bootstrap';
+import "./navstyles.css";
+import { Navbar, Nav } from 'react-bootstrap';
 
-function NavBar () {
+function Nava () {
     return (
- <div className="App">
+ <div className="Navstyles">
    <Navbar styles="justify-content-center" bg="secondary" variant="dark">
      {/* <Navbar.Brand href="#home">Ernest Wesson</Navbar.Brand> */}
      <Nav className="ml-auto">
-       <Nav.Link href="#home">Home</Nav.Link>
+       {/* <Nav.Link href="#home">Home</Nav.Link>
        <Nav.Link href="#features">My Work</Nav.Link>
-       <Nav.Link href="#pricing">About Me</Nav.Link>
-       <Nav.Link href="#pricing">Contact</Nav.Link>
+       <Nav.Link href="#pricing">About Me</Nav.Link> */}
+       <Nav.Link href="#contact">Contact</Nav.Link>
      </Nav>
    </Navbar>
    {/* <h1>React bootstrap</h1> */}
  </div>
     )
 }
-export default NavBar; 
+export default Nava; 
 
 
 // function NavBar() {
