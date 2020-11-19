@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Navbar, Nav, Jumbotron } from 'react-bootstrap';
 import Footer from './components/Footer';
 import Contact from './components/Contact'
-import { Container, Card, Button, CardDeck } from 'react-bootstrap';
+import { Container, Card, Button, CardDeck, Image } from 'react-bootstrap';
 
 
 
@@ -31,13 +31,27 @@ import { Container, Card, Button, CardDeck } from 'react-bootstrap';
           </Container>
         </Jumbotron>
         
-        <img  src="/Images/MERNimage.jpg" alt=""/>
+        
+
+        {/* <img  src="/Images/MERNimage.jpg" alt=""/> */}
 
 
 
       
 
-        <Container> 
+        <Container>
+
+        <Card className="bg-dark text-white">
+  <Card.Img src="/Images/MERNimage.jpg/100px270" alt="MERN Stack Image" />
+  <Card.ImgOverlay>
+    <Card.Title>Card title</Card.Title>
+    <Card.Text>
+      This is a wider card with supporting text below as a natural lead-in to
+      additional content. This content is a little bit longer.
+    </Card.Text>
+    <Card.Text>Last updated 3 mins ago</Card.Text>
+  </Card.ImgOverlay>
+</Card>
           
         <CardDeck>
           
@@ -150,8 +164,7 @@ import { Container, Card, Button, CardDeck } from 'react-bootstrap';
           </CardDeck>
         
 
-        
-
+      
   </Container>
 
        
