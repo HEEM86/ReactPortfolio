@@ -154,9 +154,7 @@ import { Container, Card, Button, CardDeck } from 'react-bootstrap';
           
           </CardDeck>
         
-        
-        
-        
+
         
 
   </Container>
@@ -170,15 +168,7 @@ import { Container, Card, Button, CardDeck } from 'react-bootstrap';
           </Footer>
         </div>
     
- 
-      
-      
-    
- 
-    // </div>
-    // </div>
-    
- 
+
     
     
     );
