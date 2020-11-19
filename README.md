@@ -1,4 +1,4 @@
-# ReactPortfolio
+## ReactPortfolio
 
 Created a react app portfolio page to showcase all of my project work from my 
 Coding Boot Camp Class. 
