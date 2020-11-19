@@ -17,9 +17,7 @@ Coding Boot Camp Class.
 
 My react site is created to the best of my ability. It was challenging trying to incorporate the react-bootstrap elements into my application. This sample of work is only an MVP, that I will improve on in the future as continue learn more about react. 
 
-I took the liberity of using this readme to showcase my work. 
-
-
+I took the liberity of using this readme to showcase my work. I've also have a link to my LinkedIN and Resume. 
 
 
 
@@ -45,19 +43,12 @@ https://github.com/HEEM86/Minimal_Planner **Personal Planner Application
 
 ![](https://i.ibb.co/wwghLnX/pass-gen-project.png)
 
-https://github.com/HEEM86/PasswordGeneratorEWr
+https://github.com/HEEM86/PasswordGeneratorEWr **Password Generator Application
 
 
 ![](https://i.ibb.co/Cpd0Zvb/weather-project.png)
 
-https://github.com/HEEM86/Simple_weatherapp
-
-
-
-
-## Portfolio Update :heavy_exclamation_mark:
-
-The portfolio page has links to all of the projects, I've completed so far. Also, I have a link to my LinkedIN profile, that's been updated with my FullStack BootCamp experience.
+https://github.com/HEEM86/Simple_weatherapp   **Weather Forcast Application
 
 
 
@@ -75,6 +66,8 @@ Lofi Music: https://www.youtube.com/watch?v=tutZKLeGrCs
 Ernest Wesson :lighting:
 
 LinkedIN: https://www.linkedin.com/in/ernest-wesson-b4183b5a/
+
+Resume:   https://drive.google.com/file/d/1AlmN8_dNbGBTDhQxKF3PKkIcLPGQ-7Ww/view?usp=sharing
 
 
 ## License :clipboard:
