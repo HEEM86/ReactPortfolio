@@ -25,38 +25,34 @@ I took the liberity of using this readme to showcase my work.
 
 ![](https://i.ibb.co/cD8BDrQ/covid-pronto-1.png)
 
-[](https://github.com/HEEM86/factCheck)
+https://github.com/HEEM86/factCheck  **COVID-19 News Source Application
+
 
 ![](https://i.ibb.co/dW8z6mV/petspace.png)
 
-![](https://github.com/HEEM86/PetSpace)
-
-
-
+https://github.com/HEEM86/PetSpace  **Pet Social Media Application
 
 
 ![](https://i.ibb.co/fphQFVL/fittracker.png)
 
-![]()
+https://github.com/HEEM86/FIT-TRACKER **Fitness Tracking Application
+
 
 ![](https://i.ibb.co/JscGYQv/Planner-project.png)
-![]()
+
+https://github.com/HEEM86/Minimal_Planner **Personal Planner Application
+
 
 ![](https://i.ibb.co/wwghLnX/pass-gen-project.png)
 
-![]()
+https://github.com/HEEM86/PasswordGeneratorEWr
+
 
 ![](https://i.ibb.co/Cpd0Zvb/weather-project.png)
 
+https://github.com/HEEM86/Simple_weatherapp
 
 
-
-
-![]()
-
-![]()
-
-![]()
 
 
 ## Portfolio Update :heavy_exclamation_mark:
