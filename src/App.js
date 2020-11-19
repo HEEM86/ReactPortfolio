@@ -31,7 +31,7 @@ import { Container, Card, Button, CardDeck } from 'react-bootstrap';
           </Container>
         </Jumbotron>
         
-        <img  src="/Images/MERNimage.jpg" alt="" class="stack" />
+        <img  src="/Images/MERNimage.jpg" alt=""/>
 
 
 
