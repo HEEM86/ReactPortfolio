@@ -28,6 +28,9 @@ import { Container, Card, Button, CardDeck, Image } from 'react-bootstrap';
               Ambitious Fullstack Web Developer, ready to provide company's and
               businesses a reliable development solution.
             </p>
+            <a href="https://www.linkedin.com/in/ernest-wesson-b4183b5a/">LinkedIN</a>
+            <br></br>
+            <a href="https://drive.google.com/file/d/1AlmN8_dNbGBTDhQxKF3PKkIcLPGQ-7Ww/view?usp=sharing">Resume</a>
           </Container>
         </Jumbotron>
         
@@ -52,7 +55,7 @@ import { Container, Card, Button, CardDeck, Image } from 'react-bootstrap';
     <Card.Text>Last updated 3 mins ago</Card.Text>
   </Card.ImgOverlay>
 </Card>
-          
+          <br></br>
         <CardDeck>
           
   <Card>
