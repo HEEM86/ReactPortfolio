@@ -1,5 +1,5 @@
 import React from 'react';
-// import App from './App.css';
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Navbar, Nav, Jumbotron } from 'react-bootstrap';
 // import Jumbo from './components/Jumbo';
