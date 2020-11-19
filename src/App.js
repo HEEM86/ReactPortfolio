@@ -7,14 +7,15 @@ import Footer from './components/Footer';
 import Navagation from './components/Navagation/Navagation';
 // import "./components/NavStyles.css";
 import { BrowserRouter as Router, Route } from "react-router-dom";
+import Contact from './components/Contact'
 
   function App () {
     return (
 
       <Router>
       <div>
-        <Navbar />
-        {/* <Route exact path="/contact" component={Contact} /> */}
+      <Navbar>Hello friend</Navbar>
+        <Route exact path="/contact" component={Contact} />
        
      
       </div>
