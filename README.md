@@ -1,44 +1,47 @@
 # ReactPortfolio
 
 Created a react app portfolio page to showcase all of my project work from my 
-Coding Boot Camp Class 
+Coding Boot Camp Class. 
 
 
+## Technologies Used:
+
+- React
+- JavaScript
+- HTML
+- CSS
+- React-BootStrap
 
 
 ## Overview ::
 
-My react site is 
+My react site is created to the best of my ability. It was challenging trying to incorporate the react-bootstrap elements into my application. This sample of work is only an MVP that I will improve on in the future as continue 
+
+
+
+![]()
+
+![]()
+
+![]()
+
+![]()
 
 
 
 
-![Old About](https://raw.githubusercontent.com/HEEM86/EW-Repsonsive-Site/master/assets/images/about%20old.png)
 
-![Old Portfolio](https://raw.githubusercontent.com/HEEM86/EW-Repsonsive-Site/master/assets/images/portfolio%20old.png)
+![]()
 
-![Old Contacts](https://raw.githubusercontent.com/HEEM86/EW-Repsonsive-Site/master/assets/images/contacts%20old.png)
+![]()
 
-
-**Here's what it looks like now!**
-
-
-![New About](https://raw.githubusercontent.com/HEEM86/EW-Repsonsive-Site/master/assets/images/about%20me%20new.png)
-
-![New Portfolio](https://raw.githubusercontent.com/HEEM86/EW-Repsonsive-Site/master/assets/images/portfolio%20new.png)
-
-![New Contacts](https://raw.githubusercontent.com/HEEM86/EW-Repsonsive-Site/master/assets/images/contact%20new.png)
+![]()
 
 
 ## Portfolio Update :heavy_exclamation_mark:
 
 The portfolio page has links to all of the projects, I've completed so far. Also, I have a link to my LinkedIN profile, that's been updated with my FullStack BootCamp experience.
 
-![Portfolio Updates](https://i.ibb.co/qFtczwb/portfolio-update.png)
-
-## Conslusion :boom:
-
-Looking at the Old Site vs the New Site, I'm shocked that I was able to pull this off. Honestly, going in I felt a bit uncomfortable, and didn't imagine I would get it to visually look close to the examples. Persistance and reaching out for help, was key. I wasted so much time trying to figure things out on my own, which isn't a bad thing but it always good to get someone else's perspective. Moving forward I'm feeling good but humble, this assignment was "eye-opener" for me to focus more and apply myself. 
 
 
 
