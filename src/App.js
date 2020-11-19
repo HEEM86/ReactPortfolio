@@ -5,11 +5,10 @@ import { Navbar, Nav, Jumbotron } from 'react-bootstrap';
 import Jumbo from './components/Jumbo';
 import Footer from './components/Footer';
 import Navagation from './components/Navagation/Navagation';
-// import "./components/NavStyles.css";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Contact from './components/Contact'
 import { Container, Card, Button, CardDeck } from 'react-bootstrap';
-// import Footer from "./components/Footer";
+
 
 
   function Appsite() {
