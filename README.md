@@ -15,7 +15,9 @@ Coding Boot Camp Class.
 
 ## Overview ::
 
-My react site is created to the best of my ability. It was challenging trying to incorporate the react-bootstrap elements into my application. This sample of work is only an MVP that I will improve on in the future as continue 
+My react site is created to the best of my ability. It was challenging trying to incorporate the react-bootstrap elements into my application. This sample of work is only an MVP that I will improve on in the future as continue learn more about react. 
+
+I took the liberity of using this readme to showcase my work. 
 
 
 
