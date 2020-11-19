@@ -15,19 +15,38 @@ Coding Boot Camp Class.
 
 ## Overview ::
 
-My react site is created to the best of my ability. It was challenging trying to incorporate the react-bootstrap elements into my application. This sample of work is only an MVP that I will improve on in the future as continue learn more about react. 
+My react site is created to the best of my ability. It was challenging trying to incorporate the react-bootstrap elements into my application. This sample of work is only an MVP, that I will improve on in the future as continue learn more about react. 
 
 I took the liberity of using this readme to showcase my work. 
 
 
 
-![]()
+
+
+![](https://i.ibb.co/cD8BDrQ/covid-pronto-1.png)
+
+[](https://github.com/HEEM86/factCheck)
+
+![](https://i.ibb.co/dW8z6mV/petspace.png)
 
 ![]()
 
-![]()
+
+
+
+
+![](https://i.ibb.co/fphQFVL/fittracker.png)
 
 ![]()
+
+![](https://i.ibb.co/JscGYQv/Planner-project.png)
+![]()
+
+![](https://i.ibb.co/wwghLnX/pass-gen-project.png)
+
+![]()
+
+![](https://i.ibb.co/Cpd0Zvb/weather-project.png)
 
 
 
@@ -51,9 +70,7 @@ The portfolio page has links to all of the projects, I've completed so far. Also
 
 S/O - Slack: Study Group 3!!
 
-Portfolio - https://mdbootstrap.com/docs/jquery/javascript/lightbox/
-
-Wrapping Text Around Image: https://www.youtube.com/watch?v=mEMrFbX4Agg
+React Bootstrap - https://react-bootstrap.netlify.app/
 
 Lofi Music: https://www.youtube.com/watch?v=tutZKLeGrCs
 
@@ -62,8 +79,6 @@ Lofi Music: https://www.youtube.com/watch?v=tutZKLeGrCs
 Ernest Wesson :lighting:
 
 LinkedIN: https://www.linkedin.com/in/ernest-wesson-b4183b5a/
-
-
 
 
 ## License :clipboard:
